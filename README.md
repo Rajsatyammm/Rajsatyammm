@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Programmer" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFmODAyZDkyMGY0Yjg1ZTRlYzA3ZDc4MzczMmRhMDBjNmVhNDBjMyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Programmer" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFmODAyZDkyMGY0Yjg1ZTRlYzA3ZDc4MzczMmRhMDBjNmVhNDBjMyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsatyammm&label=Profile%20views&color=0e75b6&style=flat" alt="rajsatyammm" /> </p>
 
