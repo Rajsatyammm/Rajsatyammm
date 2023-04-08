@@ -1,7 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=Rajsatyammm&icon=0&color=10)](https://visitcount.itsvg.in)
 # 💫 About Me:
-Hi 👋, I'm Satyam Raj <br>
-<b> A keen problem-solver with a passion for continuous learning.</b>
+Hi 👋, I'm Satyam Raj <br><br>
+<pre> A keen problem-solver with a passion for continuous learning.
+ I enjoy working both independently and as part of a team. </pre>
 
 - 📫 How to reach me **rajsatyammm@gmail.com**
 
