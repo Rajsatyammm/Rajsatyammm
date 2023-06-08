@@ -29,7 +29,7 @@
 # 📊 Coding Stats:
 
 ### LeetCode:
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Rajsatyammm&theme=dark)
+<a href = "https://www.leetcode.com/rajsatyammm">![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Rajsatyammm&theme=dark)</a>
 
 <!-- # LeetCode Statistics
 
