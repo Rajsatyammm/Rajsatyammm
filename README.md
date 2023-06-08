@@ -25,5 +25,24 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajsatyammm&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajsatyammm&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+# 📊 Coding Stats:
+
+### LeetCode:
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Rajsatyammm&theme=dark)
+
+<!-- # LeetCode Statistics
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Rajsatyammm-blue)](https://leetcode.com/Rajsatyammm/)
+[![LeetCode Problems Solved](https://img.shields.io/badge/Problems%20Solved-{SOLVED_COUNT}-brightgreen)](https://leetcode.com/Rajsatyammm/)
+[![LeetCode Total Submissions](https://img.shields.io/badge/Total%20Submissions-{SUBMISSION_COUNT}-orange)](https://leetcode.com/{Rajsatyammm}/)
+[![LeetCode Acceptance Rate](https://img.shields.io/badge/Acceptance%20Rate-{ACCEPTANCE_RATE}%25-yellow)](https://leetcode.com/{Rajsatyammm}/)
+
+- LeetCode Profile: [LeetCode-Rajsatyammm](https://leetcode.com/Rajsatyammm/)
+- Problems Solved: {SOLVED_COUNT}
+- Total Submissions: {SUBMISSION_COUNT}
+- Acceptance Rate: {ACCEPTANCE_RATE}% -->
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rajsatyammm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
