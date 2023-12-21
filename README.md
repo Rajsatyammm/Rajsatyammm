@@ -2,11 +2,16 @@
 <h1 align="center">Hi 👋, I'm Satyam Raj</h1>
 # 💫 About Me: <br>
  A keen problem-solver with a passion for continuous learning. <br><br>
-<pre> Hi, I'm Satyam Raj. I am a passionate learner and a skilled programmer with expertise in Java, OOPs, and problem-solving. 
- As a frontend developer, I also have experience in creating user-friendly interfaces. 
- I have a keen eye for detail and a knack for video editing, which I use to create engaging and high-quality content. 
- My goal is to continue learning and growing in my field while contributing to innovative projects that make a positive impact.
- I enjoy working both independently and as part of a team. </pre>
+<pre> 
+ 👋 Hello! I'm Satyam Raj, a seasoned Java developer with expertise in building robust and scalable web applications. 
+     My skill set encompasses a wide range of Java technologies, including Servlets, JSP, JSTL, and JDBC.
+     I specialize in leveraging powerful frameworks like Hibernate and the Spring Framework to create efficient and maintainable code.
+ 🚀 Additionally, I thrive in the world of Data Structures and Algorithms, 
+     applying my knowledge to optimize solutions and enhance application performance.
+ 💻 On the front-end, I am adept at crafting seamless user experiences using the MERN stack (MongoDB, Express.js, React, Node.js).
+    I bring projects to life with a touch of Redux.js for state management, ensuring a smooth and interactive user interface.
+ 🌐 Whether it's backend development with Java or creating dynamic and responsive frontend interfaces, 
+    I am passionate about delivering high-quality software solutions. Let's build something amazing together! </pre>
 
 - 📫 How to reach me **rajsatyammm@gmail.com**
 
